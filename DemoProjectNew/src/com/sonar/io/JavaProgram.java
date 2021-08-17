@@ -28,7 +28,7 @@ public class JavaProgram {
                    new byte [strAsByteArray.length]; 
   
         // Store result in reverse order into the 
-        // result sff byte[] 
+        // result sff byte[].. 
         for (int i = 0; i<strAsByteArray.length; i++) 
             result[i] =  
              strAsByteArray[strAsByteArray.length-i-1]; 
